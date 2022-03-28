@@ -1,0 +1,12 @@
+{
+    "userA": ["userB", "userD", "userE", "userG"],
+    "userB": ["userC", "userJ", "userI", "userE"],
+    "userC": ["userM", "userN", "userJ", "userI", "userE"],
+    "userD": [],
+    "userE": [],
+    "userG": [],
+    "userI": [],
+    "userJ": [],
+    "userM": [],
+    "userN": []
+  }
